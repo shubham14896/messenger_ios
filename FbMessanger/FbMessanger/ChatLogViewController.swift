@@ -273,6 +273,7 @@ class ChatLogMessageCell: BaseCell {
         tView.font = UIFont.systemFont(ofSize: 18)
         tView.text = "Sample Message"
         tView.backgroundColor = UIColor.clear
+        tView.isUserInteractionEnabled = false
         return tView
     }()
     
