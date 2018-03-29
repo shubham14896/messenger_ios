@@ -1,8 +1,8 @@
-# Messanger View iOS
-Facebook Messanger UI For iOS (SWIFT) without using storyboard.
+# Messenger View iOS
+Facebook Messenger UI For iOS  without using storyboard.
 - Requirements 
-Intermediate Knowledge of Core Data , Auto Layout Constraints , Collection View.
-- Demonstartion: 
+Intermediate Knowledge of Core Data ,Auto Layout Constraints ,Collection View.
+- Demonstration: 
 
 
 
